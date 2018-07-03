@@ -1,0 +1,6 @@
+{
+    "require": {
+        "pimax/fb-messenger-php": "dev-master",
+        "fritak/messenger-platform": "^1.2"
+    }
+}

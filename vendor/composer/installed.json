@@ -1,0 +1,84 @@
+[
+    {
+        "name": "fritak/messenger-platform",
+        "version": "v1.2",
+        "version_normalized": "1.2.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Fritak/messenger-platform.git",
+            "reference": "689c56636036101240598d55322df974da069a22"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/Fritak/messenger-platform/zipball/689c56636036101240598d55322df974da069a22",
+            "reference": "689c56636036101240598d55322df974da069a22",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.4.0"
+        },
+        "time": "2016-07-20T08:33:47+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "classmap": [
+                "/"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Marek Sušický",
+                "email": "contact@fritak.eu",
+                "homepage": "http://www.fritak.eu",
+                "role": "Developer"
+            }
+        ],
+        "description": "Facebook Messenger Platform PHP API for bots.",
+        "homepage": "https://github.com/fritak/messengerPlatform"
+    },
+    {
+        "name": "pimax/fb-messenger-php",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/pimax/fb-messenger-php.git",
+            "reference": "a92e9d09d62790f23caccfdd76f013deb0189a63"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/pimax/fb-messenger-php/zipball/a92e9d09d62790f23caccfdd76f013deb0189a63",
+            "reference": "a92e9d09d62790f23caccfdd76f013deb0189a63",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.4.0"
+        },
+        "time": "2018-06-26T19:28:41+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "pimax\\": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Max Pinyugin",
+                "email": "m.pinyugin@gmail.com",
+                "homepage": "http://russian-developers.com",
+                "role": "Developer"
+            }
+        ],
+        "description": " Facebook Messenger Bot PHP API",
+        "homepage": "https://github.com/pimax/fb-messenger-php"
+    }
+]
